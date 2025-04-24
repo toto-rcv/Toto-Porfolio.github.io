@@ -4,10 +4,10 @@ function Header() {
   return (
     <header>
       <nav>
-          <a href="/">Home</a>
-          <a href="about">About</a>
-          <a href="projects">Projects</a>
-          <a href="contact">Contact</a>
+          <a href="#experiencia">Experiencia</a>
+          <a href="#proyectos">Proyectos</a>
+          <a href="#Sobre-mi">Sobre mí</a>
+          <a href="#contacto">Contacto</a>
       </nav>
     </header>
   );
